@@ -38,3 +38,5 @@ def func(x):
 result = map(func,list1)
 print(result)
 print(list(result))
+
+# hhahahaahha

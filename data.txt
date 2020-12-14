@@ -1,0 +1,3 @@
+lucy:21，tom:30
+xiaoming:18，xiaohong:15
+xiaowang:20，xiaohei:19
